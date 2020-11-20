@@ -1,2 +1,2 @@
-# edupro.dmc
+# techpremium
 Learning Website (Project - Unkown)
